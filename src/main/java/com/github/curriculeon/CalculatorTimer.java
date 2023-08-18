@@ -38,7 +38,9 @@ public class CalculatorTimer {
     }
 }
 
-// method invocation deference
+// method references / lambdas are _method invocation deferences_
+    // it means we're not invoking the method where you see the lambda
+    // we're creating a reference to the method so that it can be invoked later by something else
 
 // what is dry code?
     // DO NOT REPEAT YOURSELF
